@@ -8,7 +8,7 @@ nav{
     align-items: center;
     justify-content: space-between;
     background-color: black;
-    padding: 10px 50px;
+    padding: 15px 240px;
 }
 .logo{
     color: #FFFFFF;
@@ -129,6 +129,7 @@ margin-bottom: 30px;
     max-width: 1440px;
     margin: 0 auto;
     padding: 85px 0;
+    border-radius: 8px;
 }
 .services p{
     color: rgba(39, 39, 39, 0.80);
@@ -218,3 +219,4 @@ margin:50px auto;
     color: rgba(255, 255, 255, 0.40);
     margin-top: 30px;
 }
+/* footer section end */

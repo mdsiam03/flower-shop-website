@@ -31,3 +31,92 @@ nav a{
     color: #FFFFFF;
 }
 /* navigation style end */
+/* main section style start */
+.main-banr{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.10);
+    padding: 50px 240px 0px 240px;
+}
+.main-banr-txt{
+    max-width: 700px;
+}
+.main-banr-heading{
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.main-banr-para{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin-bottom: 30px;
+}
+.btn{
+    padding: 20px 40px;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+/* main section style end */
+/* featured product section style start */
+.section-txt{
+    text-align: center;
+}
+.section-heading{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 24px;
+}
+.section-para{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    max-width: 595px;
+    margin: 0 auto;
+}
+.product-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1440px;
+    margin: 50px auto;
+}
+.product-box-img{
+    width: 464px;
+    height: 540px;
+    border-radius: 300px 300px 0px 0px;
+}
+#pink-back{
+    background: url(FlowerAsset/pngwing\ 6.png) rgba(167, 33, 98, 0.15) bottom no-repeat;
+}
+#blue-back{
+    background: url(FlowerAsset/pngwing\ 5.png) rgba(5, 151, 160, 0.15) center no-repeat;
+}
+#green-back{
+    background: url(FlowerAsset/pngwing\ 7.png) rgba(71, 125, 17, 0.15) bottom no-repeat;
+}
+.product-box p{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-top: 30px;
+}
+.featured-products{
+    margin: 130px 240px;
+}

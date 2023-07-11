@@ -145,6 +145,9 @@ margin-bottom: 30px;
 /* hot deals section start [heading and p style is shared with featured products section]*/
 .hot-deals{
     background-color: rgba(229, 84, 115, 0.05);
+}
+.deal{
+
     margin-top: 128px;
     display: flex;
     align-items: center;
@@ -158,3 +161,13 @@ margin-bottom: 30px;
     margin-top: 30px;
 }
 /* hot deals section end */
+/* ista section start */
+.insta{
+    max-width: 1440px;
+    margin: 128px auto;
+}
+.gallery{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}

@@ -161,7 +161,7 @@ margin-bottom: 30px;
     margin-top: 30px;
 }
 /* hot deals section end */
-/* ista section start */
+/* insta section start */
 .insta{
     max-width: 1440px;
     margin: 128px auto;
@@ -171,3 +171,32 @@ margin-bottom: 30px;
     justify-content: space-between;
     margin-top: 50px;
 }
+/* insta section end */
+/* latest-deals section start */
+.deal-txt{
+    text-align: center;
+}
+.subscribe{
+display: flex;
+width: 865px;
+margin:50px auto;
+}
+#email{
+    width: 700px;
+    padding: 20px 40px;
+    margin-right: 15px;
+    border: 0px;
+    border-radius: 8px;
+}
+.latest-deals{
+    width: 1440px;
+    margin: 0 auto;
+
+}
+.deal-container{
+    background-image: url(FlowerAsset/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    padding: 120px 285px;
+    
+}
+/* latest deal section end */

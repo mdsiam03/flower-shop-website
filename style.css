@@ -120,3 +120,27 @@ margin-bottom: 30px;
 .featured-products{
     margin: 130px 240px;
 }
+/* featured products section style end */
+/* Our services section start */
+.our-services{
+ 
+}
+.services{
+    background-color: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-around;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 85px 0;
+}
+.services p{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+    margin-top: 30px;
+}
+.service-optn{
+    text-align: center;
+}

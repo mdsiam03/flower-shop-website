@@ -151,9 +151,10 @@ margin-bottom: 30px;
     justify-content: space-between;
     padding: 100px 430px;
 }
-#off{
+.off{
     color: #E55473;
 }
-#signup{
+.signup{
     margin-top: 30px;
 }
+/* hot deals section end */

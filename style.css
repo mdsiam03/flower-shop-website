@@ -122,9 +122,6 @@ margin-bottom: 30px;
 }
 /* featured products section style end */
 /* Our services section start */
-.our-services{
- 
-}
 .services{
     background-color: rgba(39, 39, 39, 0.05);
     display: flex;
@@ -143,4 +140,20 @@ margin-bottom: 30px;
 }
 .service-optn{
     text-align: center;
+}
+/* Our services section end */
+/* hot deals section start [heading and p style is shared with featured products section]*/
+.hot-deals{
+    background-color: rgba(229, 84, 115, 0.05);
+    margin-top: 128px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 100px 430px;
+}
+#off{
+    color: #E55473;
+}
+#signup{
+    margin-top: 30px;
 }
